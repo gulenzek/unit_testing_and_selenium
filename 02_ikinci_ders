@@ -1,0 +1,15 @@
+MVC programı
+
+interface nedir?
+
+.net core web application > mvc> 
+
+
+MVC ekranı açılıyor.
+
+Dependency injection > Dikkat
+
+services.AddSingleton<ILog, DbLog>();
+services.AddControllersWithViews();
+
+[15:55] Mustafa KAPUCU (Opthema) (telefon..)
