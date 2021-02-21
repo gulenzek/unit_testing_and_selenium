@@ -1,0 +1,32 @@
+[TestClass], [TestMethod] - Olmazsa olmaz attributelar..
+
+--> Test isimlendirme: Herşey açık açık yazılacak.
+    - MethodName_StateUnderTest_ExpectedBehavior şeklinde olması gerekiyor. Şirketlere göre değişebiliyor.
+
+==> Assert Methods
+========================================================================================
+Assert.Equal() .NotEqual()
+Assert.Contains()
+Empty
+False
+vs. metotları var.
+
+==> Test Explorer denilen bir panel var. Testleri burada çalıştırabiliyoruz. IDE'nin gücü ve kuvveti.
+
+==> Enterprise sürümlerde, Test menüsünde "Code Coverage" kısmı var.
+
+TestMethod üzerine sağ kliklediğimizde de aynı şekilde çalıştırabiliyoruz. !! Süper..
+
+Selenium WebDriver
+========================================================================================
+Selenium kullanıcıları test edebiliriz.
+
+Selenium.WebDriver
+========================================================================================
+Nerede neyi yakalayacağımki onun içerisinde neye bakacağım.
+
+span'ın div'den farkı tamamıyla kaplamıyor. içine ne verirsen onu gösteriyor ve o kadarlık yer kaplıyor.
+
+Database'e giden projelerde entegrasyon testi.
+
+API. bazen 100 defa geliyor. Dikkat etmek gerek.
