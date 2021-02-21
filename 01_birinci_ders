@@ -1,0 +1,116 @@
+Test - Test türleri
+
+Bug - Debugging
+
+Birim testleri - Unit test
+
+TDD - Test Driven Development
+
+Test edilebilir kod nasıl olmalı? - Önemli bir nokta.
+
+C# ile unit test (xunit nunit junit vesair)
+
+Selenium
+
+C# ile Selenium testleri
+
+Moq kütüphanesi
+
+Test nedir?
+============================================
+Yapılan şeyin sınanması
+
+Bug= böcek
+Debugging= böceklerden arındırma
+
+Debugging => Unit test bu işe yarıyor.
+
+Yazılım yaşayan bir organizmadır. // Dikkat!
+
+Planlama > Analiz > Tasarım > Üretim > Test > Bakım
+
+Teste yazılım geliştirme sürecinin başında başlamak gereklidir. // Dikkat!
+
+Planlama / Analiz / Tasarım kısımlarında yer almak gerekiyor.
+
+"Ne kadar erken başlarsam o kadar kritik olur."
+
+"Yazılımda hatalar olduğunu göstermektir. Yazılımda hatalar kalmadığını ispatlamak değildir."
+
+Antibiyotik Direnci = Pertiside Paradox
+
+güncelleme ve revize etmek gereklidir.
+
+"Yeni hata bulamıyoruz" yanılgısı // Dikkat!
+
+Code coverage!
+
+Testlerin sonuçları ve analizlerini inceleyin. // Dikkat!
+
+Test analizi ve tasarımı
+1 - Teknik özellikler inceleyerek test temelini gözden geçirin.
+2 - Test öğelerin analizinde test koşulları, özellikleri, davranışları ve yapıları
+...
+
+Codebyte - algoritma deneyebilirsiniz.
+
+Test uyarlama ve yürütme: Dikkat!
+Detayları dokümanda.
+
+Her sprint sonunda bir test raporu oluşturulur.
+
+Statik test ~ Dinamik test teknikleri
+Sonar çalıştırılabilir. (bir test aracı sanırım)
+Dynamic testing = Sonar, Yasca, FxCop [1-01.png]
+
+Yazılım test türleri =>
+
+Birim testi: En küçük birimin testi.
+
+Tümleyim testi: Integration testing
+
+Regresyon testi: Regression testing
+
+Zorlanım - Performans testi: Performance testing
+
+Kullanıcı kabul testi: User acceptance testing
+
+Beyaz kutu test tekniği: White-box testing technic
+
+Kara kutu test tekniği: Black-box testing technic
+
+Smoke test:
+
+Test condition: pdf'e bak.
+
+Birim testi
+=====================================================
+Birim testi nedir?
+
+Test edilebilir kod nasıl olmalı?
+
+SOLID - Bunu görmüştük.
+
+Bir testte tek bir assert ifadesi olsun.
+
+Test sayısı arttıkça isimlendirmenin önemi de artar.
+
+
+Geleneksel yaklaşım ve günümüzdeki durum
+=================================================
+Traditional model ~ Continuous delivery model
+
+End-to-end tests>Integration tests> Unit tests geleneksel yöntem.
+
+Unit tests > Integration tests > End-to-end tests olmasını arzuluyoruz.
+
+Test driven development (TDD)
+
+
+Test edilebilir kod nasıl olmalı.
+
+(S)ingle responsibility principle
+(O)pen/closed principle
+(L)iskov substitution principle
+(I)nterface segregation principle
+(D)ependency inversion principle
